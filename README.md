@@ -1,6 +1,5 @@
-Sure! Here’s a **README.md** file with proper GitHub markdown formatting. You can copy and paste this into your repository's README file, and it will look great on GitHub.  
+  
 
-```md
 # 🎮 Java Small Games  
 
 Welcome to **Java Small Games**! This repository is a collection of small games created using Java. The goal is to improve Java programming skills by building fun and interactive projects.  
@@ -12,15 +11,21 @@ Welcome to **Java Small Games**! This repository is a collection of small games 
 - Improve problem-solving skills  
 
 ## 🎲 Games Included  
-✔️ **Game 1:** [Crack the Code] - *A simple Java game using JOptionPane where players can set or guess a saved password using file handling. 🚀*  
-✔️ **Game 2:** [Virtual Game Library] - *Keep an archive of the games you have created.*  
-✔️ **Game 3:** [Keep an archive of the games you have created] - *This is an add-on to Virtual Game Library*  
+✔️ **Game 1:** [Game Name] - *Short Description*  
+✔️ **Game 2:** [Game Name] - *Short Description*  
+✔️ **Game 3:** [Game Name] - *Short Description*  
 _(More games coming soon!)_  
 
 ## 🔧 Technologies Used  
 - **Java** (JDK 17 or later)  
 - **Swing / JavaFX** (for UI-based games)  
 - **Console-based logic** for simple games  
+
+## 📌 How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Sabeshini/Java-Small-Games.git
+   cd Java-Small-Games
 
 ## 📌 How to Run  
 1. Clone the repository:  
@@ -48,5 +53,4 @@ Have an idea for a new game or an improvement? Feel free to contribute! 🚀
 ---
 
 ### 🏆 Happy Coding & Game Development! 🎮✨  
-```
 
