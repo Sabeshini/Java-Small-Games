@@ -11,9 +11,9 @@ Welcome to **Java Small Games**! This repository is a collection of small games 
 - Improve problem-solving skills  
 
 ## 🎲 Games Included  
-✔️ **Game 1:** [Game Name] - *Short Description*  
-✔️ **Game 2:** [Game Name] - *Short Description*  
-✔️ **Game 3:** [Game Name] - *Short Description*  
+✔️ **Game 1:** [Crack the Code] - *A simple Java game using JOptionPane where players can set or guess a saved password using file handling.*  
+✔️ **Game 2:** [Virtual Game Library] - *Keep an archive of the games you have created.*  
+✔️ **Game 3:** [Virtual Game Library Pro Edition] - *This is an add-on to Virtual Game Library.*  
 _(More games coming soon!)_  
 
 ## 🔧 Technologies Used  
