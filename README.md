@@ -12,9 +12,9 @@ Welcome to **Java Small Games**! This repository is a collection of small games 
 - Improve problem-solving skills  
 
 ## 🎲 Games Included  
-✔️ **Game 1:** [Game Name] - *Short Description*  
-✔️ **Game 2:** [Game Name] - *Short Description*  
-✔️ **Game 3:** [Game Name] - *Short Description*  
+✔️ **Game 1:** [Crack the Code] - *A simple Java game using JOptionPane where players can set or guess a saved password using file handling. 🚀*  
+✔️ **Game 2:** [Virtual Game Library] - *Keep an archive of the games you have created.*  
+✔️ **Game 3:** [Keep an archive of the games you have created] - *This is an add-on to Virtual Game Library*  
 _(More games coming soon!)_  
 
 ## 🔧 Technologies Used  
@@ -50,4 +50,3 @@ Have an idea for a new game or an improvement? Feel free to contribute! 🚀
 ### 🏆 Happy Coding & Game Development! 🎮✨  
 ```
 
-This will display well on **GitHub** with proper formatting, headers, emojis, and syntax highlighting. You can paste this into your `README.md` file, and it will look great! 🚀🔥
