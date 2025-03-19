@@ -14,7 +14,7 @@ Welcome to **Java Small Games**! This repository is a collection of small games 
 ✔️ **Game 1:** [Crack the Code] - *A simple Java game using JOptionPane where players can set or guess a saved password using file handling.*  
 ✔️ **Game 2:** [Virtual Game Library] - *Keep an archive of the games you have created.*  
 ✔️ **Game 3:** [Virtual Game Library Pro Edition] - *This is an add-on to Virtual Game Library.*  
-_(More games coming soon!)_  
+✔️ **Game 4:** [Number Guesser] - *The computer generates a random number from 0 to 100 ... and you have to guess what it is!*  
 
 ## 🔧 Technologies Used  
 - **Java** (JDK 17 or later)  
@@ -49,6 +49,9 @@ _(More games coming soon!)_
 
 ## 📢 Contributions  
 Have an idea for a new game or an improvement? Feel free to contribute! 🚀  
+
+## References Made From
+Programming Video Games for the Evil Genius By IAN CINNAMON
 
 ---
 
